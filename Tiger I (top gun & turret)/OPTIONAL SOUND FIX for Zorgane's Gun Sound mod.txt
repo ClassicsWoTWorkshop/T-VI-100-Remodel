@@ -1,0 +1,5 @@
+==== OPTIONAL ====
+
+For use with Zorgane's Gun Sound mod ONLY: If you use Zorgane's Gun Sound mod alongside this remodel, open the "Sound fix" folder and drag the included "scripts" folder to <Your WoT Directory\RES_mods\<Game Version>. 
+
+(Example: C:\Games\World_of_Tanks\RES_mods\1.7.0.2)
