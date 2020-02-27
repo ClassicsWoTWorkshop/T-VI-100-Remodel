@@ -2,6 +2,13 @@ Thank you for downloading! To install, drag the three .wotmod files from the fol
 
 (Example: C:\Games\World_of_Tanks\mods\1.7.0.2)
 
-Included are three versions of the remodel - one for the HT No. VI, one for the Tiger 131, and one for the Tiger I (100mm D-10T visual model replaces 88mm L/71).
+
+==== OPTIONAL ====
+
+
+OPTIONAL: If you use Zorgane's Gun Sound mod, open the "Sound fix" folder from within the version folder(s) of your choice(s) and drag "scripts" to <Your WoT Directory\RES_mods\<Game Version>. 
+
+(Example: C:\Games\World_of_Tanks\RES_mods\1.7.1.2)
+
 
 Made by FastestClassic.
