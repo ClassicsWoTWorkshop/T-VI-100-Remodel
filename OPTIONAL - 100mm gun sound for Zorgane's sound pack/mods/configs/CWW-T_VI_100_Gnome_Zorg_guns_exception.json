@@ -1,0 +1,10 @@
+{
+    "guns": {			    
+		"germany:G04_PzVI_Tiger_I": {   
+			"_88mm_KwK_43_L71_N": {
+                "effects": "shot_100mm_D10",
+				"reloadEffect": "Reload_100mm_gun_reload"
+            }
+        }
+    }
+}
