@@ -1,2 +1,8 @@
 
 *.zip
+*.xml
+*.model
+*.visual_processed
+*.primitives_processed
+*.vt
+*.dds
